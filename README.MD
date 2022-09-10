@@ -4,6 +4,8 @@
 Na API  é possível cadastrar alunos, professores, cursos, turmas, e disciplinas. onde cada operação 
 é validada antes de ser efetuada, a fim de impedir a persistência de informações inconsistentes no banco de dados.</p>
 
+https://user-images.githubusercontent.com/76541826/189488211-4fbee15a-1c46-46b0-a41d-952acb9f5df6.mp4
+
 <h1>Estrutura de diretórios e classes</h1>
 
 * <p>Config - Classes de configurações de bibliotecas externas.</p>
